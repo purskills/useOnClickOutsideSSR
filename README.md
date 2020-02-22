@@ -10,7 +10,7 @@ Then ...
 
 ```
 import React, { useRef } from "react";
-import useOnClickOutsideSSR from "useOnClickOutsideSSR";
+import useOnClickOutsideSSR from "use-onclickoutside-ssr";
 
 const App = () => {
     const ref = useRef();
