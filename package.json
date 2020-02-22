@@ -1,0 +1,26 @@
+{
+  "name": "use-onclickoutside-ssr",
+  "version": "1.0.0",
+  "description": "useOutside Click Event on React JS projects and also NextJS project(for SSR)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angular-Mast/useOnClickOutsideSSR.git"
+  },
+  "keywords": [
+    "nextjs",
+    "use",
+    "onclick",
+    "outside",
+    "ssr"
+  ],
+  "author": "AngularMast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angular-Mast/useOnClickOutsideSSR/issues"
+  },
+  "homepage": "https://github.com/Angular-Mast/useOnClickOutsideSSR#readme"
+}

@@ -4,7 +4,7 @@ useOutside Click Event on React JS projects and also NextJS project(for SSR)
 
 # Install
 
-`npm i useOnClickOutsideSSR --save`
+`npm i use-onclickoutside-ssr --save`
 
 Then ...
 
