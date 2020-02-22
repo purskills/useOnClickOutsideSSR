@@ -21,4 +21,4 @@ function useOnClickOutsideSSR(ref, handler) {
   }, [ref, handler]);
 }
 
-module.exports.useOnClickOutsideSSR = useOnClickOutsideSSR;
+export default useOnClickOutsideSSR;
