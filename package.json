@@ -1,6 +1,6 @@
 {
   "name": "use-onclickoutside-ssr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useOutside Click Event on React JS projects and also NextJS project(for SSR)",
   "main": "index.js",
   "scripts": {
