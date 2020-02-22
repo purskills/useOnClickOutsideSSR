@@ -12,9 +12,9 @@
   },
   "keywords": [
     "nextjs",
-    "use",
-    "onclick",
-    "outside",
+    "use-onclickoutside-ssr",
+    "onclickoutside",
+    "reactjs",
     "ssr"
   ],
   "author": "AngularMast",
