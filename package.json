@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Angular-Mast/useOnClickOutsideSSR/issues"
   },
-  "homepage": "https://github.com/Angular-Mast/useOnClickOutsideSSR#readme"
+  "homepage": "https://github.com/Angular-Mast/useOnClickOutsideSSR#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
 }
